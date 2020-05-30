@@ -1,0 +1,33 @@
+============== Isotope Distribution Simulator ==============
+
+----------------------------------------
+
+Input "exit" to quit
+Input "edit" to edit isotope list
+Input "help" to display the command list
+
+----------------------------------------
+
+Please input isotopes in the format of "Name, Mass, Relative Intensity"
+Input "file" to import data from file
+Input "clean" to clean all isotopes
+Input "finish" to terminate editing
+Isotope 1: file
+File Path: isotopes.txt
+Isotope 21: finish
+
+----------------------------------------
+
+Compound (e.g. C_1_H_1_Cl_3): C_45
+Calculation Proceeding...
+Calculating terms for each element...
+Calculating for C...
+Calculating terms for the compound...
+Collecting data...
+Plotting spectrum...
+Process completed!
+
+----------------------------------------
+
+Compound (e.g. C_1_H_1_Cl_3): exit
+Press any key to continue . . .
