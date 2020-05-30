@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IsotopeDistributionSimulator", "IsotopeDistributionSimulator\IsotopeDistributionSimulator.pyproj", "{681C3A08-A6C9-4F24-B03A-F9C601F4B596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{681C3A08-A6C9-4F24-B03A-F9C601F4B596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681C3A08-A6C9-4F24-B03A-F9C601F4B596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7689AE0F-2335-4E4C-AD25-B6579C39C6E0}
+	EndGlobalSection
+EndGlobal
