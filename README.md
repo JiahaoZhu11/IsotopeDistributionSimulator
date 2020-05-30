@@ -17,4 +17,4 @@
 ###### isotopes.txt
 > The data file of isotopes
 
-![The isotope distribution of C<sub>45</sub>][https://github.com/JiahaoZhu11/IsotopeDistributionSimulator/blob/master/IsotopeDistributionSimulator/C_45.png]
+![The isotope distribution of C<sub>45</sub>](https://github.com/JiahaoZhu11/IsotopeDistributionSimulator/blob/master/IsotopeDistributionSimulator/C_45.png)
